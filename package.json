@@ -1,4 +1,7 @@
 {
+  "prettier":{
+    "singleQuote": true
+  },
   "name": "angular-one",
   "version": "0.0.0",
   "scripts": {
